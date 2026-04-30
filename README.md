@@ -16,8 +16,7 @@ Recon. Fingerprint. Expose. Secure.
 
 ### 🔥VulnRaider
 
-<video src="assets/short/short.mp4" autoplay loop muted playsinline controls width="100%"></video>
-
+![VulnRaider Demo](assets/short/demo.gif)
 ### Screenshots
 
 <p align="center">
